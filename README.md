@@ -63,3 +63,5 @@ The scripts use Next.js's supported Webpack mode. This keeps local development s
 5. Deploy, open the generated HTTPS URL in iPhone Safari, and optionally use **Share → Add to Home Screen**.
 
 No Vercel build-command, output-directory, or install-command override is needed. HTTPS supports the intended phone experience. The manifest provides standalone launch metadata; offline loading/background sync are not implemented.
+
+<!-- Vercel deployment trigger -->
